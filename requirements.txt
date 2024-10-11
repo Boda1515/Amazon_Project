@@ -1,0 +1,11 @@
+selenium
+webdriver-manager
+easyocr
+aiohttp
+azure-storage-blob
+pandas
+matplotlib
+Pillow
+beautifulsoup4
+tqdm
+nest_asyncio
