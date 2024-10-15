@@ -15,3 +15,4 @@ matplotlib
 Pillow
 nest_asyncio
 tqdm
+pyarrow
