@@ -1,1 +1,4 @@
-
+https://funcapp8.gentleplant-ba13700e.francecentral.azurecontainerapps.io/api/orchestrators/Orchest?site=amazon_uk&reviews=True
+https://funcapp8.gentleplant-ba13700e.francecentral.azurecontainerapps.io/api/orchestrators/Orchest?site=amazon_us&reviews=True
+https://funcapp8.gentleplant-ba13700e.francecentral.azurecontainerapps.io/api/orchestrators/Orchest?site=amazon_in&reviews=True
+https://funcapp8.gentleplant-ba13700e.francecentral.azurecontainerapps.io/api/orchestrators/Orchest?site=amazon_eg&reviews=False
