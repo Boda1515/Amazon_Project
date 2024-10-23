@@ -1,4 +1,28 @@
 {
+  "contributors": [],
   "projectName": "Amazon_Project",
-  "projectOwner": "Ahmed8aa"
+  "projectOwner": "Ahmed8aa",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "types": {
+    "code": {
+      "symbol": "💻",
+      "description": "Code"
+    },
+    "design": {
+      "symbol": "🎨",
+      "description": "Design"
+    },
+    "documentation": {
+      "symbol": "📝",
+      "description": "Documentation"
+    },
+    "mentoring": {
+      "symbol": "🤝",
+      "description": "Mentoring"
+    }
+  }
 }
