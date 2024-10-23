@@ -20,9 +20,9 @@
       "symbol": "📝",
       "description": "Documentation"
     },
-    "mentoring": {
+    "contribution": {
       "symbol": "🤝",
-      "description": "Mentoring"
+      "description": "contribution"
     }
   }
 }
